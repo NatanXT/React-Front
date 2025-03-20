@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "framer-motion": "^12.5.0",
-    "react": "^18.2.0",
+    "react": "file:",
     "react-dom": "^18.2.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^6.30.0"
